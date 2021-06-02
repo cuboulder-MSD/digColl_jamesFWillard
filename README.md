@@ -13,7 +13,7 @@ Name of the collection: James F. Willard Collection
 ### Title
 Title derived from original captions on the work by the creator. If the original title is not available titles are created by the cataloger.
 
-### Name
+### Creator
 Individual(s) or corporate entities that created or are associated with the work. Most creators in the collection are unidentified. 
 
 ### Date
@@ -34,7 +34,7 @@ The name of the entity that published, printed, distributed, released, issued, o
 ### Contributor
 Contributor to the work. 
 
-### Internet Media Type: 
+### Type: 
 Standard that indicates the nature and format of a document, file, or assortment of bytes. The [Internet Assigned Numbers Authority (IANA)](https://www.iana.org/assignments/media-types/media-types.xhtml) is responsible for all official MIME. Media type(s) in this collection: image/jpeg
 
 ### Identifier
@@ -44,15 +44,18 @@ Contains a unique standard number or code that distinctively identifies a resour
 Controlled, stable link to the resource.
 
 ### Source
-Source from which the item was derived (if part of a greater whole). Boulder Area, COU:1730:04
+Source from which the item was derived (if part of a greater whole). Example: Boulder Area, COU:1730:04
 
-### Related Item
+### Language
+Contains the textual or coded form for the language of the content of the resource.
+
+### Relation
 Information that identifies other resources related to the one being described.
 
-### Place Created
+### Coverage
 Location of work creation or publication city. Places include: [Boulder (Colo.)](http://id.loc.gov/authorities/names/n79091289)
 
-### Access Condition
+### Rights
 Information about restrictions imposed on access to a resource.
 
 Statement in collection: This Item is protected by copyright and/or related rights. However, for this Item, either (a) no rights-holder(s) have been identified or (b) one or more rights-holder(s) have been identified but none have been located. You are free to use this Item in any way that is permitted by the copyright and related rights legislation that applies to your use. https://rightsstatements.org/page/InC-RUU/1.0/?language=en
