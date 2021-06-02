@@ -62,4 +62,7 @@ Statement in collection: This Item is protected by copyright and/or related righ
 
 Rights statement comes from [rightsstatements.org](https://rightsstatements.org/page/1.0/?language=en)
 
+## Resources
+For more information about this collection visit the webpage at the CU Boulder ArchivesSpace; [James F. Willard Collection](https://archives.colorado.edu/repositories/2/resources/217).
+
 ## Notes
